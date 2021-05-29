@@ -1,0 +1,15 @@
+abcdefgklo
+8888888888
+8888888888
+8888888888
+8888888888
+8888888888
+8888888888
+8888888888
+8888888888
+8888888888
+Coordinate is wrong ( 0, 1 )
+Coordinate is wrong ( 1, 0 )
+Coordinate is wrong ( 11, 0 )
+Coordinate is wrong ( 0, 11 )
+Coordinate is wrong ( 0, 0 )
